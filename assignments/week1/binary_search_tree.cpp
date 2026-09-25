@@ -29,9 +29,7 @@ int main(){
             continue;
         }
 
-        Branch* root_branch = branches[0];
-
-        Branch* current_branch = root_branch;
+        Branch* current_branch = branches[0];
 
         while (true){
             if (branch->value < current_branch->value)
