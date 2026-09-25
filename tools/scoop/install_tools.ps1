@@ -1,0 +1,1 @@
+scoop import .\tools\scoop\scoopfile.json
