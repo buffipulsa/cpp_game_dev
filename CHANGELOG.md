@@ -7,11 +7,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.2.0] - 2026-05-17
+## [0.1.1] - 2026-05-17
 
 ### Added
 - Week 1 Binary Search Tree assignment (`assignments/week1/binary_search_tree.cpp`)
 - C++ basics sample file (`samples/cpp_basics.cpp`)
+
+### Changed
+- Added debug printouts to `tools/scoop/install_tools.ps1`
+
+### Completed
+- Finished week 1 Binary Search Tree homework assignment
+
+### Fixed
+- Removed redundant `root_branch` pointer from `assignments/week1/binary_search_tree.cpp`
 
 ### Changed
 - Added debug printouts to `tools/scoop/install_tools.ps1`
